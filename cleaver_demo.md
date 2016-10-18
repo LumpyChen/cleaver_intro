@@ -3,7 +3,7 @@ author:
   name: Lumpy Chen
   email: lumpychen@outlook.com
   url: http://www.lumpychen.com
-output: basic.html
+output: index.html
 controls: true
 progress: true
 theme: select/cleaver-select-theme
