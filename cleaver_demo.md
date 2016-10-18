@@ -66,7 +66,7 @@ sudo npm install cleaver -g
 1. 需要在 Markdown 文件开头添加少量配置，[配置的API](https://github.com/jdan/cleaver/blob/master/docs/options.md)
 2. 需要在正文中使用`--`来进行幻灯片的分页
 
-比如这个幻灯片对应的 markdown 文件[源码在此]()
+比如这个幻灯片对应的 markdown 文件[源码在此](https://raw.githubusercontent.com/LumpyChen/cleaver_intro/master/cleaver_demo.m://raw.githubusercontent.com/LumpyChen/cleaver_intro/master/cleaver_demo.md)
 
 --
 
